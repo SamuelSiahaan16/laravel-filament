@@ -14,5 +14,5 @@
 
 Using [Filament](https://filamentphp.com/docs) to create an admin CRUD interface, we have one admin managing customer CRUD operations.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/gY78Hgo" data-context="false" ><a href="//imgur.com/a/gY78Hgo"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://imgur.com/a/gY78Hgo">
 
