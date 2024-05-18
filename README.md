@@ -10,5 +10,5 @@
 ## About This Project
 Template to make Fullstack With [Filament](https://filamentphp.com/docs)
 
-- Template [CRUD Customer](https://github.com/SamuelSiahaan16/laravel-filament/tree/crud-admin)
+- Template [CRUD Customer](https://github.com/SamuelSiahaan16/laravel-filament/tree/crud-admin) 
 
